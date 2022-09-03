@@ -40,7 +40,7 @@ experience:
     location: Menlo Park, California
     date_start: '2017-05-22'
     date_end: '2017-08-11'
-    description: Ads Ranking
+    description: 'Ads Ranking'
     
   - title: Graduate Student
     company: Purdue University
@@ -49,7 +49,7 @@ experience:
     location: West Lafayette, Indiana
     date_start: '2016-08-11'
     date_end: '2018-05-05'
-    description: Computer Science and Statistics
+    description: 'Computer Science and Statistics'
     
   - title: Software Engineer
     company: Housing.com
@@ -58,7 +58,7 @@ experience:
     location: Mumbai, India
     date_start: '2015-03-02'
     date_end: '2016-07-11'
-    description: Software Engineering
+    description: 'Software Engineering'
     
   - title: Software Engineer
     company: Samsung Research
@@ -67,7 +67,7 @@ experience:
     location: Delhi, India
     date_start: '2014-06-24'
     date_end: '2015-02-28'
-    description: Linux Device Drivers
+    description: 'Linux Kernel Device Drivers'
     
    - title: Summer Intern
     company: Texas Instruments
@@ -76,7 +76,7 @@ experience:
     location: Bangalore, India
     date_start: '2013-05-22'
     date_end: '2013-07-11'
-    description: 3D Computer Graphics
+    description: '3D Computer Graphics'
     
    - title: Undergraduate Student
     company: IIT Kharagpur
@@ -85,7 +85,7 @@ experience:
     location: Kharagpur, India
     date_start: '2010-07-19'
     date_end: '2014-05-05'
-    description: Computer Science
+    description: 'Computer Science'
 
 design:
   columns: '2'
