@@ -29,7 +29,7 @@ experience:
     location: Menlo Park, California
     date_start: '2018-06-25'
     date_end: ''
-    description: |2-        
+    description: >-        
         * Computer Vision
         * Vision & Language
 
