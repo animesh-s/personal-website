@@ -68,5 +68,3 @@ highlight_name: true
 ---
 
 I am a Software Engineer at Meta AI working on Vision & Language research. I received my Master's degree from Purdue University in 2018 and Bachelor's degree from IIT Khagarpur in 2014. My research interests include computer vision, multimodal understanding and information retrieval.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
