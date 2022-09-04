@@ -29,7 +29,7 @@ experience:
     location: Menlo Park, California
     date_start: '2018-06-25'
     date_end: ''
-    description: 'Computer Vision, Vision & Language'
+    description: 'Research in Computer Vision, Vision & Language'
 
   - title: Summer Intern
     company: Meta
@@ -38,7 +38,7 @@ experience:
     location: Menlo Park, California
     date_start: '2017-05-22'
     date_end: '2017-08-11'
-    description: 'Ads Ranking'
+    description: 'Improving Ads Ranking'
     
   - title: Graduate Student
     company: Purdue University
@@ -47,16 +47,16 @@ experience:
     location: West Lafayette, Indiana
     date_start: '2016-08-11'
     date_end: '2018-05-05'
-    description: 'Computer Science and Statistics'
+    description: 'Computer Science & Statistics'
     
   - title: Software Engineer
     company: Housing.com
     company_url: ''
-    company_logo: org-x
+    company_logo: housing
     location: Mumbai, India
     date_start: '2015-03-02'
     date_end: '2016-07-11'
-    description: 'Software Engineering'
+    description: 'Building the backend of Housing.com'
     
   - title: Software Engineer
     company: Samsung Research
@@ -65,7 +65,7 @@ experience:
     location: Delhi, India
     date_start: '2014-06-24'
     date_end: '2015-02-28'
-    description: 'Linux Kernel Device Drivers'
+    description: 'Building Linux Kernel Device Drivers'
     
   - title: Summer Intern
     company: Texas Instruments
@@ -74,16 +74,16 @@ experience:
     location: Bangalore, India
     date_start: '2013-05-22'
     date_end: '2013-07-11'
-    description: '3D Computer Graphics'
+    description: '3D Computer Graphics & Navigation'
     
   - title: Undergraduate Student
     company: IIT Kharagpur
     company_url: ''
-    company_logo: org-x
+    company_logo: iitkgp
     location: Kharagpur, India
     date_start: '2010-07-19'
     date_end: '2014-05-05'
-    description: 'Computer Science'
+    description: 'Computer Science & Engineering'
 
 design:
   columns: '2'
