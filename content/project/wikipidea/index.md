@@ -1,6 +1,6 @@
 ---
 title: Wikipedia Vandalism Detection
-summary: Identify the cases of vandalism on Wikipedia page edits
+summary: Vandalism detection in Wikipedia page edits
 tags:
   - Other
 date: '2016-12-04T00:00:00Z'
