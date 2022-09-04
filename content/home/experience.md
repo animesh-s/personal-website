@@ -34,7 +34,7 @@ experience:
   - title: Summer Intern
     company: Meta
     company_url: ''
-    company_logo: org-x
+    company_logo: meta
     location: Menlo Park, California
     date_start: '2017-05-22'
     date_end: '2017-08-11'
