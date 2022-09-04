@@ -61,7 +61,7 @@ experience:
   - title: Software Engineer
     company: Samsung Research
     company_url: ''
-    company_logo: org-x
+    company_logo: samsung
     location: Delhi, India
     date_start: '2014-06-24'
     date_end: '2015-02-28'
@@ -70,7 +70,7 @@ experience:
   - title: Summer Intern
     company: Texas Instruments
     company_url: ''
-    company_logo: org-x
+    company_logo: ti
     location: Bangalore, India
     date_start: '2013-05-22'
     date_end: '2013-07-11'
