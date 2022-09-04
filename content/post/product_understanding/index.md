@@ -1,5 +1,5 @@
 ---
-title: Powered by AI: Advancing product understanding and building new shopping experiences
+title: Powered by AI - Advancing product understanding and building new shopping experiences
 subtitle: We’ve built and deployed GrokNet, a universal computer vision system designed for shopping. It can identify fine-grained product attributes across billions of photos — in different categories, such as fashion, auto, and home decor.
 
 # Summary for listings and search engines
