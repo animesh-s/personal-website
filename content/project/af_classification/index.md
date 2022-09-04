@@ -2,7 +2,7 @@
 title: Atrial Fibrillation Classification
 summary: AF Classification from a short single lead ECG Recording
 tags:
-  - Deep Learning
+  - Other
 date: '2017-10-14T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
