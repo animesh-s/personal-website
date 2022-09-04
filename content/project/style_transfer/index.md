@@ -12,10 +12,10 @@ image:
   caption: ''
   focal_point: Smart
 
-links:
-  - name: Github
-    url: https://github.com/animesh-s/Neural-Style-Transfer
-url_code: ''
+# links:
+#  - name: Github
+#    url: https://github.com/animesh-s/Neural-Style-Transfer
+url_code: 'https://github.com/animesh-s/Neural-Style-Transfer'
 url_pdf: ''
 url_slides: ''
 url_video: ''
