@@ -45,9 +45,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+  - name: Blog
+    url: https://ai.facebook.com/blog/commercemm-a-new-approach-to-multimodal-understanding-for-online-shopping/
 
 url_pdf: 'https://arxiv.org/pdf/2202.07247.pdf'
 url_code: ''
