@@ -30,7 +30,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Arxiv:2105.11373*
-publication_short: *arxiv:2105.11373*
+publication_short: In *arxiv:2105.11373*
 
 abstract: We study the problem of learning how to predict attribute-object compositions from images, and its generalization to unseen compositions missing from the training data. To the best of our knowledge, this is a first large-scale study of this problem, involving hundreds of thousands of compositions. We train our framework with images from Instagram using hashtags as noisy weak supervision. We make careful design choices for data collection and modeling, in order to handle noisy annotations and unseen compositions. Finally, extensive evaluations show that learning to compose classifiers outperforms late fusion of individual attribute and object predictions, especially in the case of unseen attribute-object pairs.
 
