@@ -43,14 +43,13 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+  - name: Blog
+  - url: https://ai.facebook.com/blog/advancing-ai-to-make-shopping-easier-for-everyone/
 
 url_pdf: 'https://arxiv.org/pdf/2105.11373.pdf'
 url_code: ''
 url_dataset: ''
-url_blog: 'https://ai.facebook.com/blog/advancing-ai-to-make-shopping-easier-for-everyone/'
 url_poster: ''
 url_project: ''
 url_slides: ''
