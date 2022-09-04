@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer
     company: Meta AI
     company_url: ''
-    company_logo: org-gc
+    company_logo: meta_ai
     location: Menlo Park, California
     date_start: '2018-06-25'
     date_end: ''
