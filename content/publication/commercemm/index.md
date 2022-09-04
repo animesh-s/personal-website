@@ -52,7 +52,7 @@ links:
 url_pdf: 'https://arxiv.org/pdf/2202.07247.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: 'https://github.com/animesh-s/personal-website/blob/main/content/publication/commercemm/poster.pdf'
+url_poster: 'https://lichengunc.github.io/images/kdd2022_commercemm_poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
