@@ -1,6 +1,6 @@
 ---
 title: Neural Style Transfer
-summary: About A PyTorch implementation of 'A Neural Algorithm of Artistic Style' by L. Gatys, A. Ecker, and M. Bethge
+summary: A PyTorch implementation of 'A Neural Algorithm of Artistic Style' by L. Gatys, A. Ecker, and M. Bethge
 tags:
   - Deep Learning
 date: '2018-04-16T00:00:00Z'
