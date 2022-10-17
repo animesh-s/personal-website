@@ -32,8 +32,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Arxiv:2105.11373*
-publication_short: In *arxiv:2105.11373*
+publication: In *Empirical Methods in Natural Language Processing 2022*
+publication_short: In *EMNLP 2022*
 
 abstract: Coming soon
 
