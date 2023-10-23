@@ -44,9 +44,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-#  - name: Blog
-#    url: https://ai.facebook.com/blog/advancing-ai-to-make-shopping-easier-for-everyone/
+links:
+  - name: Blog
+    url: https://ai.facebook.com/blog/advancing-ai-to-make-shopping-easier-for-everyone/
 
 url_pdf: ''
 url_code: ''
