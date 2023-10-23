@@ -10,7 +10,7 @@ role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Meta AI
+  - name: GenAI, Meta
     url: https://ai.facebook.com/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,9 +18,9 @@ bio: My research interests include computer vision and multimodal understanding.
 
 # Interests to show in About widget
 interests:
+  - Generative AI
   - Computer Vision
   - Multimodal Understanding
-  - Information Retrieval
 
 # Education to show in About widget
 education:
@@ -67,4 +67,4 @@ email: ''
 highlight_name: true
 ---
 
-I am a Software Engineer at Meta AI working on Vision & Language research. I received my Master's degree from Purdue University in 2018 and Bachelor's degree from IIT Kharagpur in 2014. I work on large-scale machine learning algorithms for object recognition, retrieval and representation learning at the intersection of vision and language.
+I am a Software Engineer at Meta AI working on Generative AI research. I received my Master's degree from Purdue University in 2018 and Bachelor's degree from IIT Kharagpur in 2014. I work on large-scale machine learning algorithms for image generation, object recognition, retrieval and representation learning at the intersection of vision and language.
