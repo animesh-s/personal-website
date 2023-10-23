@@ -30,10 +30,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Arxiv:*
-publication_short: In *Arxiv:*
+publication: Under Review
+publication_short: Under Review
 
-abstract: Existing state-of-art vision-language models
+abstract: Existing state-of-art vision-language models follow the widely-used recipe of pre-training on a large corpus of image-text pairs followed by fine-tuning on one or more downstream tasks. Similar methods have also been shown to be successful in video-language tasks. However, such pre-training schemes are inherently restricted by the availability of large-volume of high-quality paired video captions, often only found in particular video domains such as stock footage or instructional videos. To address this limitation, we explore utilizing unaligned vision and text corpora with two distinct advantages: access to orders of magnitude more unaligned data and such unaligned data can be obtained for diverse domains. We show that our proposed iterative alignment method to perform alignment between vision and language modalities in the pre-training step can significantly improve downstream task performance compared to no pre-training setup. Experiments on multiple diverse video-language benchmarks validate the effectiveness of our approach.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,9 +44,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-  - name: Blog
-    url: https://ai.facebook.com/blog/advancing-ai-to-make-shopping-easier-for-everyone/
+# links:
+#  - name: Blog
+#    url: https://ai.facebook.com/blog/advancing-ai-to-make-shopping-easier-for-everyone/
 
 url_pdf: ''
 url_code: ''
