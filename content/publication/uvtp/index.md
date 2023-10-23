@@ -48,7 +48,7 @@ featured: false
 #  - name: Blog
 #    url: https://ai.facebook.com/blog/advancing-ai-to-make-shopping-easier-for-everyone/
 
-url_pdf: ''
+url_pdf: 'https://theshadow29.github.io/assets/pdf_files/unaligned_subm.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
