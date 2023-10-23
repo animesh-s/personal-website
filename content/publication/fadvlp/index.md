@@ -50,7 +50,7 @@ featured: false
   # - name: Blog
    # url: https://ai.facebook.com/blog/advancing-ai-to-make-shopping-easier-for-everyone/
 
-url_pdf: ''
+url_pdf: 'https://aclanthology.org/2022.emnlp-main.716.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
