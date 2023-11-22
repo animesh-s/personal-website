@@ -1,5 +1,5 @@
 ---
-title: 'Large-Scale Attribute-Object Compositions'
+title: 'Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
