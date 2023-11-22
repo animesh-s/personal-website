@@ -14,7 +14,7 @@ organizations:
     url: https://ai.facebook.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision and multimodal understanding.
+bio: My research interests include Generative AI, Computer Vision and Multimodal Understanding.
 
 # Interests to show in About widget
 interests:
