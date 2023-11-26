@@ -6,7 +6,7 @@ title: Animesh Sinha
 superuser: true
 
 # Role/position/tagline
-role: Software Engineer
+role: Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
