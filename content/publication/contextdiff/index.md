@@ -1,5 +1,5 @@
 ---
-title: 'Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression'
+title: 'Context Diffusion: In-Context Aware Image Generation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
