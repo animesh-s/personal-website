@@ -29,7 +29,7 @@ experience:
     location: Menlo Park, California
     date_start: '2018-06-25'
     date_end: ''
-    description: 'Research in Computer Vision, Vision & Language'
+    description: 'Research in Generative AI, Computer Vision, Vision & Language'
 
   - title: Software Engineering Intern
     company: Meta
