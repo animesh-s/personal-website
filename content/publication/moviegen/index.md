@@ -25,8 +25,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Arxiv*
-publication_short: In *arxiv*
+publication: In *Arxiv:2410.13720*
+publication_short: In *arxiv:2410.13720*
 
 abstract: We present Movie Gen, a cast of foundation models that generates high-quality, 1080p HD videos with different aspect ratios and synchronized audio. We also show additional capabilities such as precise instruction-based video editing and generation of personalized videos based on a user's image. Our models set a new state-of-the-art on multiple tasks - text-to-video synthesis, video personalization, video editing, video-to-audio generation, and text-to-audio generation. Our largest video generation model is a 30B parameter transformer trained with a maximum context length of 73K video tokens, corresponding to a generated video of 16 seconds at 16 frames-per-second. We show multiple technical innovations and simplifications on the architecture, latent spaces, training objectives and recipes, data curation, evaluation protocols, parallelization techniques, and inference optimizations that allow us to reap the benefits of scaling pre-training data, model size, and training compute for training large scale media generation models. We hope this paper helps the research community to accelerate progress and innovation in media generation models.
 
@@ -43,9 +43,9 @@ links:
   - name: Blog
     url: https://ai.meta.com/research/movie-gen/
 
-url_pdf: 'https://ai.meta.com/static-resource/movie-gen-research-paper'
+url_pdf: 'https://arxiv.org/pdf/2410.13720'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://github.com/facebookresearch/MovieGenBench'
 url_poster: ''
 url_project: ''
 url_slides: ''
