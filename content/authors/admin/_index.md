@@ -67,4 +67,4 @@ email: ''
 highlight_name: true
 ---
 
-I lead Personalized Media Generation in the Llama org at Meta. I received my Master's degree from Purdue University in 2018 and Bachelor's degree from IIT Kharagpur in 2014. I work on large-scale machine learning algorithms for image and video generation, object recognition, retrieval and representation learning at the intersection of vision and language.
+I lead Controllable Media Generation in the Superintelligence org at Meta. I received my Master's degree from Purdue University in 2018 and Bachelor's degree from IIT Kharagpur in 2014. I work on large-scale machine learning algorithms for image and video generation, object recognition, retrieval and representation learning at the intersection of vision and language.
