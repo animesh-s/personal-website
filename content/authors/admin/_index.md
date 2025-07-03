@@ -10,7 +10,7 @@ role: Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: GenAI, Meta
+  - name: Meta Superintelligence Labs
     url: https://ai.facebook.com/
 
 # Short bio (displayed in user profile at end of posts)
