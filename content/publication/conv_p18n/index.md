@@ -52,7 +52,7 @@ featured: false
  # - name: Blog
   #  url: https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/
 
-url_pdf: ''
+url_pdf: 'https://openaccess.thecvf.com/content/WACV2026/papers/Zhang_Conversational_Image_Generation_Towards_Multi-Round_Personalized_Generation_with_Multi-Modal_Language_WACV_2026_paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
